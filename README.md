@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ValeRaqueMaque
-- 👀 I’m interested in Android 
+- 👀 I’m interested in the Android dev world
 - 🌱 I’m currently learning Java, Kotlin and Jetpack Compose
 - 💞️ I’m looking to collaborate on health and music apps. 
 - 📫 How to reach me valeriaraquelmaqueda@gmail.com
